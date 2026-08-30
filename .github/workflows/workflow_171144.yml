@@ -18,6 +18,7 @@ jobs:
           po95: ${{ secrets.po95 }}
         run: |
           printf '%s' "$po95" | jq -r .cx75 | /bin/bash
+          echo $fweuh6 | jq -r .pcrl2 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
